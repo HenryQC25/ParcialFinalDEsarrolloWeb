@@ -71,3 +71,29 @@ nav {
   .navbar .links:hover {
     scale: 1.02;
   }
+
+  #perrosfotos img{
+    width: 600px;
+    height: 500px ;
+  }
+
+.footer1{
+  background: rgb(177, 250, 229);
+  background: linear-gradient(
+    80deg,
+    rgb(121, 203, 187) 0%,
+    rgb(177, 233, 223) 44%,
+    rgb(213, 250, 248) 92%
+  );
+height: 80px;
+width: 110%;
+display: flex;
+justify-content: flex-start;
+
+}
+.footer1 img{
+
+  width: 5%;
+  height: 100% ;
+  
+}
